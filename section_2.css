@@ -1,0 +1,704 @@
+
+
+.px-2 {
+    padding-left: .5rem !important;
+}
+.deals-carousel.section-gaps {
+    padding: 195px 0;
+}
+.deals-carousel {
+    background-color: #f8f8f8;
+    position: relative;
+    overflow: hidden;
+}
+section {
+    display: block;
+}
+
+.text-center {
+    text-align: center ;
+    max-width: 1300px;
+    margin: auto;
+}
+.deals-carousel h2.section-heading {
+    font-size: 40px;
+    line-height: 45px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #000;
+}
+.mb-3, .my-3 {
+    margin-bottom: 1rem !important;
+}
+.h2, h2 {
+    font-size: 40px;
+    line-height: 45px;
+    color: #1048b5;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.section-gaps p {
+    margin: 0 0px 30px;
+    font-weight: lighter;
+}
+
+.mathlete-slider {
+    display: inline-block;
+    width: 100%;
+    margin-top: 50px;
+}
+
+element.style {
+    opacity: 1;
+    width: 760px;
+    transform: translate3d(0px, 0px, 0px);
+    width: 100%;
+    display: inline-block;
+}
+
+.mathlete-slider .single-campaign-holder {
+    height: 390px;
+    border: 1px solid #d7d7d7;
+    border-radius: 9px;
+    overflow: hidden;
+    position: relative;
+}
+.align-items-center {
+    align-items: center !important;
+}
+.justify-content-center {
+    justify-content: center !important;
+}
+.d-flex {
+    display: flex !important;
+}
+.campaign-status.closed {
+    background: #f4811f;
+}
+.campaign-status {
+    height: 30px;
+    position: absolute;
+    left: 0;
+    top: 30px;
+    padding: 10px 15px;
+    font-size: 14px;
+    line-height: 16px;
+}
+.text-white {
+    color: #fff !important;
+}
+.mathlete-slider .single-campaign-holder .short-detail {
+    -o-transform-origin: 0% 50%;
+    -ms-transform-origin: 0% 50%;
+    -moz-transform-origin: 0% 50%;
+    -webkit-transform-origin: 0% 50%;
+    transform-origin: 0% 50%;
+    transition: all ease-in-out 0.1s;
+}
+
+.mathlete-slider .single-campaign-holder .image-holder {
+    width: 245px;
+    height: 232px;
+}
+.mb-5, .my-5 {
+    margin-bottom: 3rem !important;
+}
+
+
+
+.mathlete-slider .single-campaign-holder .short-desc {
+    opacity: 0;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f4811f;
+    padding: 50px 15px;
+    -o-transform: rotateY(-90deg);
+    -ms-transform: rotateY(-90deg);
+    -moz-transform: rotateY(-90deg);
+    -webkit-transform: rotateY(-90deg);
+    transform: rotateY(-90deg);
+    -o-transform-origin: 100% 50%;
+    -ms-transform-origin: 100% 50%;
+    -moz-transform-origin: 100% 50%;
+    -webkit-transform-origin: 100% 50%;
+    transform-origin: 100% 50%;
+    transition: all ease-in-out 0.1s;
+}
+.mb-3, .my-3 {
+    margin-bottom: 1rem !important;
+}
+ h2 {
+    color: #222;
+    line-height: 1.2em !important;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+h3 {
+    font-size: 24px;
+    line-height: 28px;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.mathlete-slider .short-desc-text {
+    height: 150px;
+    overflow-y: auto;
+}
+.overflow-hidden {
+    overflow: hidden;
+}
+.btn-white, .btn-white:focus {
+    border: 2px solid #fff;
+    background-color: #fff;
+    color: #000;
+}
+.btn-blue, .btn-orange, .btn-white {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 18px 30px 16px;
+    border-radius: 32px;
+    transition: all ease-in-out 0.3s;
+}
+a, a:focus, a:hover {
+    text-decoration: none;
+    outline: 0;
+}
+
+.mathlete-slider .single-campaign-holder .campaign-name {
+    font-size: 24px;
+    line-height: 28px;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+b, strong {
+    font-weight: bold;
+    font-weight: bolder;
+}
+.flex-column {
+    flex-direction: column !important;
+}
+.btn-white, .btn-white:focus {
+    border: 2px solid #fff;
+    background-color: #fff;
+    color: #000;
+}
+.btn-blue:hover, .btn-orange, .btn-white {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1048b5;
+    background-color: white;
+    border-color: #1048b5;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 18px 30px 16px;
+    border-radius: 32px;
+    transition: all ease-in-out 0.3s;
+}
+a, a:focus, a:hover {
+    text-decoration: none;
+    outline: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.image-container {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    overflow: hidden;
+    border: 1px solid #d7d7d7;
+    border-radius: 9px;
+}
+
+
+
+.text-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transform: rotateY(90deg);
+    transition: all 0.5s ease;
+}
+
+.image-container:hover .image {
+    transform: rotateY(90deg);
+}
+
+.image-container:hover .text-overlay {
+    opacity: 1;
+    transform: rotateY(0deg);
+}
+@media (min-width: 300px) {
+    .pl-sm-3, .px-sm-3 {
+        padding-left: 1rem !important;
+    }
+    .flex-sm-row {
+        flex-direction: row !important;
+    }
+    .mx-sm-1 {
+        margin-left: .25rem !important;
+    }
+    .mb-sm-0, .my-sm-0 {
+        margin-bottom: 0 !important;
+    }
+}
+
+@media (min-width: 576px) {
+    .pl-sm-3, .px-sm-3 {
+        padding-left: 1rem !important;
+    }
+    .flex-sm-row {
+        flex-direction: row !important;
+    }
+    .mx-sm-1 {
+        margin-left: .25rem !important;
+    }
+    .mb-sm-0, .my-sm-0 {
+        margin-bottom: 0 !important;
+    }
+}
+
+.px-2 {
+    padding-left: .5rem !important;
+}
+
+.deals-carousel {
+    background-color: #f8f8f8;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+
+
+.deals-carousel h2.section-heading {
+    font-size: 40px;
+    line-height: 45px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #000;
+}
+
+.mb-3, .my-3 {
+    margin-bottom: 1rem !important;
+}
+
+.h2, h2 {
+    font-size: 40px;
+    line-height: 45px;
+    color: #1048b5;
+    font-family: s;
+    font-weight: bold;
+}
+
+.section-gaps p {
+    margin: 0 0px 30px;
+}
+
+
+.mathlete-slider {
+    display: inline-block;
+    width: 100%;
+    margin-top: 50px;
+}
+
+
+
+
+.single-campaign-holder {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 600px;
+    border: 1px solid #d7d7d7;
+    border-radius: 9px;
+    transition: transform 0.5s ease;
+    overflow: hidden;
+}
+
+.campaign-status {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    transform: scale(0);
+    transition: all 0.5s ease;
+}
+.single-campaign-holder:hover{
+
+.image-holder {
+    width: 100%;
+    height: auto;
+}
+
+
+
+.short-detail, .short-desc {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #fd7405;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transform: scale(0);
+    transition: all 0.5s ease;
+}
+
+}
+.single-campaign-holder:hover .img-fluid {
+    transform: scale(0);
+}
+
+.single-campaign-holder:hover .short-detail, .single-campaign-holder:hover .short-desc {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.text-block {
+    padding: 0 10px;
+}
+
+.btns-holder .btn-white {
+    background: #fff;
+    color: #000;
+    padding: 10px 20px;
+    border: 1px solid #000;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btns-holder .btn-white:hover {
+    color:#1048b5;
+}
+
+
+
+
+.deals-carousel .section-heading:before {
+    height: 85px;
+}
+.deals-carousel .section-heading:before, .top-before:before {
+    content: "";
+    border: 1px solid #3063a9;
+    position: absolute;
+    top: 0;
+    height: 130px;
+    left: 0;
+    right: 0;
+    width: 1px;
+    margin: 0 auto;
+}
+.deals-carousel .section-heading:after {
+    width: 38px;
+    height: 38px;
+    border: 2px solid #3063a9;
+    border-radius: 100%;
+    background: url(https://res.cloudinary.com/arhamsoft-ltd/image/upload/v1616671895/mathlete/assets/images/default-campaign_ayjrco.png) no-repeat center center;
+    background-size: auto;
+    background-size: 82%;
+    top: 85px;
+}
+.deals-carousel .section-heading:after, .top-before:after {
+    content: "";
+    position: absolute;
+    top: 130px;
+    width: 40px;
+    height: 40px;
+    left: 0;
+
+    right: 0;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.campaign-status {
+    height: 30px;
+    position: absolute;
+    left: 0;
+    top: 30px;
+    padding: 10px 15px;
+    font-size: 14px;
+    line-height: 16px;
+}
+.campaign-status.closed {
+    background: #f4811f;
+}
+.campaign-status.closed:before {
+    border-width: 15px 15px 0 0;
+    border-color: #f4811f transparent transparent transparent;
+}
+.campaign-status:before {
+    top: 0;
+}
+.campaign-status:before, .campaign-status:after {
+    content: "";
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: calc(100% - 1px);
+    border-style: solid;
+}
+.campaign-status.closed:after {
+    border-width: 15px 0 0 15px;
+    border-color: transparent transparent transparent #f4811f;
+}
+.campaign-status:after {
+    bottom: 0;
+}
+.campaign-status:before, .campaign-status:after {
+    content: "";
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: calc(100% - 1px);
+    border-style: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*mathlete slider*/
+.mathlete-slider {
+    display: inline-block;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.mathlete-slider .single-campaign-holder {
+    height: 390px;
+    border: 1px solid #d7d7d7;
+    border-radius: 9px;
+    overflow: hidden;
+    position: relative;
+}
+
+.mathlete-slider .single-campaign-holder .campaign-name {
+    font-size: 24px;
+    line-height: 28px;
+    color: #000;
+    font-family: 'Proxima Nova Rg';
+    font-weight: bold;
+}
+
+.mathlete-slider .single-campaign-holder .short-detail {
+    -o-transform-origin: 0% 50%;
+    -ms-transform-origin: 0% 50%;
+    -moz-transform-origin: 0% 50%;
+    -webkit-transform-origin: 0% 50%;
+    transform-origin: 0% 50%;
+    transition: all ease-in-out 0.1s;
+}
+
+.mathlete-slider .single-campaign-holder:hover .short-detail {
+    -o-transform: rotateY(90deg);
+    -ms-transform: rotateY(90deg);
+    -moz-transform: rotateY(90deg);
+    -webkit-transform: rotateY(90deg);
+    transform: rotateY(90deg);
+    opacity: 0;
+}
+
+.mathlete-slider .single-campaign-holder .short-desc {
+    opacity: 0;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f4811f;
+    padding: 50px 15px;
+    -o-transform: rotateY(-90deg);
+    -ms-transform: rotateY(-90deg);
+    -moz-transform: rotateY(-90deg);
+    -webkit-transform: rotateY(-90deg);
+    transform: rotateY(-90deg);
+    -o-transform-origin: 100% 50%;
+    -ms-transform-origin: 100% 50%;
+    -moz-transform-origin: 100% 50%;
+    -webkit-transform-origin: 100% 50%;
+    transform-origin: 100% 50%;
+    transition: all ease-in-out 0.1s;
+}
+
+.mathlete-slider .single-campaign-holder:hover .short-desc {
+    -o-transform: rotateY(0);
+    -ms-transform: rotateY(0);
+    -moz-transform: rotateY(0);
+    -webkit-transform: rotateY(0);
+    transform: rotateY(0);
+    transition-delay: 0.21s;
+    opacity: 1;
+}
+
+.mathlete-slider .single-campaign-holder .image-holder {
+    width: 245px;
+    height: 232px;
+}
+
+.mathlete-slider .single-campaign-holder .btn-white:hover {
+    background-color: #fff;
+    color: #1048b5;
+}
+
+/* Analytics Block Styles */
+.double-text-heading {
+    font-size: 50px;
+    line-height: 53px;
+    color: #1048b5;
+    font-family: 'Proxima Nova Rg';
+    font-weight: bold;
+}
+
+.double-text-heading span {
+    color: #fd7405;
+}
+
+/*campaign section*/
+.campaign-status {
+    height: 30px;
+    position: absolute;
+    left: 0;
+    top: 30px;
+    padding: 10px 15px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.campaign-status:before, .campaign-status:after {
+    content: "";
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: calc(100% - 1px);
+    border-style: solid;
+}
+
+.campaign-status:before {
+    top: 0;
+}
+
+.campaign-status:after {
+    bottom: 0;
+}
+
+.campaign-status.active {
+    background: #83b93a;
+}
+
+.campaign-status.active:before {
+    border-width: 15px 15px 0 0;
+    border-color: #83b93a transparent transparent transparent;
+}
+
+.campaign-status.active:after {
+    border-width: 15px 0 0 15px;
+    border-color: transparent transparent transparent #83b93a;
+}
+
+.campaign-status.closed {
+    background: #f4811f;
+}
+
+.campaign-status.closed:before {
+    border-width: 15px 15px 0 0;
+    border-color: #f4811f transparent transparent transparent;
+}
+
+.campaign-status.closed:after {
+    border-width: 15px 0 0 15px;
+    border-color: transparent transparent transparent #f4811f;
+}
+
+.mathlete-slider .slick-arrow {
+    width: 20px;
+    height: 20px;
+    border: solid #cbcbcb;
+    position: absolute;
+    top: 50%;
+    -o-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    transition: all ease-in-out 0.2s;
+}
+
+.mathlete-slider .slick-arrow:hover {
+    border-color: #1048b5;
+}
+
+.mathlete-slider .slick-arrow.slick-prev {
+    border-width: 0 0 2px 2px;
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.mathlete-slider .slick-arrow.slick-next {
+    border-width: 0 2px 2px 0;
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.mathlete-slider .slick-arrow:before {
+    display: none;
+}
+
+.mathlete-slider .slick-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.mathlete-slider .short-desc-text {
+    height: 150px;
+    overflow-y: auto;
+}

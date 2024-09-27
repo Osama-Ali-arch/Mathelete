@@ -1,0 +1,262 @@
+#footer{
+	color: #fff;
+	background:#1048b5;
+	position: relative;
+	background-image:url('https://res.cloudinary.com/arhamsoft-ltd/image/upload/v1643873064/mathlete/assets/site-images/footer-bg_jjuur9.png');
+	padding-bottom:80px;
+}
+.exciting-prizes {
+	padding-top: 100px;
+}
+.exciting-prizes .heading-section {
+	text-align: center;
+	background-repeat: no-repeat;
+	padding-bottom: 200px;
+}
+.exciting-prizes .heading-section:before{
+	height:420px;
+	content:"";
+	position:absolute;
+	left:0;
+	top:-2px;
+	right:0;
+	background:url('https://res.cloudinary.com/arhamsoft-ltd/image/upload/v1643873063/mathlete/assets/site-images/bg-footer_o3nbev.png');
+	background-position:0 100%;
+	background-size:cover;
+}
+.exciting-prizes .heading-section .blue {
+	display: inline-block;
+	margin: 0 auto;
+	background: #1048b5;
+	clip-path: polygon(0 0, 100% 24%, 100% 81%, 0 100%);
+	-webkit-clip-path: polygon(0 0, 100% 24%, 100% 81%, 0 100%);
+	font-size: 30px;
+	padding: 30px 40px;
+	color: #fff;
+}
+.exciting-prizes .heading-section .orange {
+	display: inline-block;
+	background: #fd7405;
+	clip-path: polygon(0 16%, 100% 0, 100% 83%, 6% 90%);
+	-webkit-clip-path: polygon(0 16%, 100% 0, 100% 83%, 6% 90%);
+	color: #fff;
+	font-size: 26px;
+	margin-top: -10px;
+	padding: 20px 70px;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+#footer .footer-image-holder{
+	width:676px;
+	height:620px;
+	position:absolute;
+	left:-140px;
+	top:-90px;
+}
+#footer .prize-section .text-section .prize-text{
+	font-size:60px;
+	line-height:65px;
+	color:#fff;
+	font-family: sans-serif;
+	text-shadow:0 0 3px rgba(0,0,0,0.7);
+}
+#footer .prize-section .text-section .prize-text .yellow{
+	color:#ffb100;
+	font-weight:bold;
+}
+#footer button.btn.btn-register {
+	background: #fd7405;
+	color: #fff;
+	padding: 10px 30px;
+	border-radius: 30px;
+	font-family:sans-serif;
+	font-size: 16px;
+	margin-top: 20px;
+	font-weight: bold;
+}
+#footer .prize-section .text-section{
+	padding-top:120px;
+}
+#footer .footer-nav-holder{
+	padding-top:100px;
+}
+#footer .copyright-text{
+	font-size:16px;
+	line-height:20px;
+	color:#fff;
+}
+#footer .copyright-text p{
+	margin:0;
+}
+.download-app h4 {
+	margin-bottom: 10px;
+}
+.download-app .buttons a,.download-app .buttons span{
+	display: inline-block;
+	background: #fff;
+	border-radius: 9px;
+	margin: 2px;
+	transition: .3s;
+	-webkit-transition: .3s
+}
+.download-app .buttons a:hover,.download-app .buttons span:hover{
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, .4);
+}
+.download-app .buttons a img, .download-app .buttons span img {
+	max-height: 43px;
+}
+#footer .social-links {
+	margin-bottom: 20px;
+	display: inline-block;
+	width: 100%;
+	margin-top: 24px;
+}
+footer ul {
+	display: table;
+	margin: 0 auto;
+}
+footer ul li {
+	display: inline-table;
+	margin-right: 10px;
+}
+footer li a {
+	color: #fff!important;
+	font-size: 14px;
+}
+footer .social-links li a, footer .social-links li > span {
+	background: #fff;
+	padding: 12px 0;
+	border-radius: 50%;
+	font-size: 22px;
+	opacity: .9;
+	width: 50px;
+	display: inline-block;
+	height: 50px;
+	text-align: center;
+	line-height: 28px
+}
+footer .social-links li a span.fab.fa-facebook-f,footer .social-links li span span.fab.fa-facebook-f {
+	color: #073d8d;
+}
+footer .social-links li a span.fab.fa-twitter,footer .social-links li span span.fab.fa-twitter {
+	color: #0c94ac;
+}
+footer .social-links li a span.fab.fa-linkedin,footer .social-links li span span.fab.fa-linkedin {
+	color: #03265b;
+}
+footer .social-links li a span.fab.fa-instagram,footer .social-links li span span.fab.fa-instagram {
+	color: #f77737;
+}
+footer .social-links li a:hover {#
+	opacity: 1
+}
+footer .copyrights {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+footer .copyrights a {
+	color: #fff;
+}
+footer .copyrights a:hover {
+	color: #fd7405;
+}
+.footer-as-icon{
+	position: absolute;
+	right:0;bottom:0;
+}
+.footer-as-icon .footer-as-link{
+	width:88px;
+	height:128px;
+	position: absolute;
+	right:-33px;
+	bottom:-49px;
+	z-index:1;
+	text-indent:-9999px;
+	-o-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+@media only screen and (max-width:1449px){
+	#footer .footer-image-holder {
+		left: -20px;
+	}
+}
+@media only screen and (max-width:1219px){
+	.download-app .buttons a img, .download-app .buttons span img {
+		max-height: 35px;
+	}
+}
+@media only screen and (max-width:1199px){
+	#footer .footer-image-holder {
+		width: 100%;
+		height: auto;
+		position: static;
+		left: auto;
+		top: auto;
+	}
+	#footer .footer-image-holder img {
+		width: 100%;
+		height: auto;
+	}
+	#footer .footer-nav-holder {
+		padding-top: 30px;
+	}
+}
+@media only screen and (max-width:991px){
+	.exciting-prizes {
+		padding-top: 0;
+	}
+	.exciting-prizes .heading-section:before {
+		height: 260px;
+	}
+	.exciting-prizes .heading-section .blue {
+		font-size: 22px;
+	}	
+	.prize-section {
+		padding-top: 30px;
+	}
+	#footer .prize-section .text-section .prize-text {
+		font-size: 40px;
+		line-height: 45px;
+	}
+}
+@media only screen and (max-width:767px){
+	.exciting-prizes .heading-section {
+		padding-bottom: 80px;
+		background: #fff;
+	}
+	.exciting-prizes .heading-section:before {
+		display:none;
+	}
+	.exciting-prizes .heading-section .blue {
+		font-size: 18px;
+		padding: 25px 40px;
+	}
+	.exciting-prizes .heading-section .orange {
+		font-size: 22px;
+	}
+}
+@media only screen and (max-width:575px){
+	.exciting-prizes .heading-section .blue {
+		font-size: 14px;
+		line-height: 18px;
+		padding: 20px;
+		font-weight: 400;
+	}
+	.exciting-prizes .heading-section .orange {
+		font-size: 16px;
+		line-height: 20px;
+		padding: 15px 20px;
+	}
+	.exciting-prizes .heading-section .orange {
+		margin-top: -10px;
+	}
+}
+@media (max-width:450px) {
+	#footer{
+		padding-bottom:80px;
+	}
+}

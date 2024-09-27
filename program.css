@@ -1,0 +1,13 @@
+.coming-soon-page .big-text-img {
+    width: 1165px;
+}
+.oops-bg .big-text-img, .coming-soon-page .big-text-img {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

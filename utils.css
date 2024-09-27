@@ -1,0 +1,45 @@
+/* Global styles */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Utility classes */
+.util-cursor-pointer {
+  cursor: pointer;
+}
+
+.util-font-bold {
+  font-weight: bold;
+}
+
+.util-transition-color {
+  transition: color 0.3s ease-in-out;
+}
+
+.util-hover-color {
+  color: #f0ad4e;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  /* Add responsive styles here */
+}
+
+/* Specific component styles */
+.js-scroll-trigger {
+  /* Combine utility classes */
+  /*.util-transition-color;
+  .util-hover-color;*/
+}
+
+.js-scroll-trigger:hover {
+  /* No need to repeat the hover style */
+}
+
+/* Remove unnecessary styles */
+/* div {
+  display: block;
+  unicode-bidi: isolate;
+} */
